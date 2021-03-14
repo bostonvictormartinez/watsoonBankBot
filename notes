@@ -1,0 +1,94 @@
+html1 is my Version for windows no more update
+bankNodejs is my reciptical for raspberrypi
+
+bankNodejs update to my github
+
+update rasberry pi and RPI files via github.com
+
+
+
+build architecture fpor nodejs raspberrypi
+npm init my index and packages 
+dont install packages
+update packages manually
+ npm install
+ npm run build
+
+npm i style-loader
+npm i webpack npm i webpack@"5.24.4"
+npm i sass-loader
+npm i css-loader
+
+
+npm i babel-loader
+npm i file-loader
+
+npm i url-loader
+npm i react-svg-loader
+npm i html-webpack-plugin
+
+npm i webpack-merge
+
+add webpack.config files to structure dev prod
+
+
+npm i uglifyjs-webpack-plugin
+
+npm i extract-text-webpack-plugin --force
+
+ becausenode_modules/webpack
+npm WARN   peer webpack@"^4.27.0 || ^5.0.0" from css-loader@5.1.2
+npm WARN   node_modules/css-loader
+npm WARN     css-loader@"^5.1.2" from the root project
+npm WARN   3 more (file-loader, uglifyjs-webpack-plugin, the root project)
+npm WARN
+npm WARN Could not resolve dependency:
+npm WARN peer webpack@"^3.1.0" from extract-text-webpack-plugin@3.0.2
+npm WARN node_modules/extract-text-webpack-plugin
+npm WARN   extract-text-webpack-plugin@"*" from the root project
+npm WARN deprecated extract-text-webpack-plugin@3.0.2: Deprecated. Please use https://github.com/webpack-contrib/mini-css-extract-plugin
+
+but still uploaded
+may need mini css extract plugin
+npm i mini-css-extract-plugin
+
+
+
+extract text webpack plugin 
+    add 
+        mini-css-extract-plugin as well in js
+
+npm i compression-webpack-plugin 
+    npm i compression-webpack-plugin@"6.0.0"
+
+npm i clean-webpack-plugin
+
+npm i express
+ 
+
+ so in morning
+ 1. npm i stylelint-webpack-plugin
+ 2. push new files to raspberrypi
+3. push new files to github
+4. pull files from github to raspberry pi if need
+/////
+
+npm i enzyme
+npm i enzyme-adapter-react-16
+npm i enzyme-to-json
+npm i acorn
+npm i sinon
+
+npm i smoothscroll-polyfill
+npm i csurf
+npm i helmet
+
+npm i express-rate-limit
+
+npm i csurf
+
+
+
+
+
+
